@@ -3,8 +3,11 @@
 3.1: Provision and maintain cloud resources
 Create and manage AMIs (for example, EC2 Image Builder).
 
+Root account - used only to create a IAM user with administrative permissions attached via policy.
+
 IAM (Identity and Access Management) Role - Helps to secure control access to AWS resources. With IAM you can centrally manage permissions to which AWS resources users can access. (Implement least privilege).  
 Integrate with federated services(Microsoft, Google) that will be assigned roles.
+
 
 IAM Groups help to manage IAM users --> Create a policy to grant permission - JSON File. By default IAM users can't access anything in your account. 
 
@@ -12,3 +15,12 @@ IAM Groups help to manage IAM users --> Create a policy to grant permission - JS
 
 Examples AWS policies - https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 
+IAM Group and Users Steps:
+
+1. Root user create admin IAM admin user group policy
+2. Root create IAM user and assign admin group to a user(s)
+3. Admin user create IAM group policies
+4. Admin assign/revoke policies to users
+5. IAM roles can be used to assign permissions temporarily (users, applications assume roles to access resources)
+See this chart as an example
+    ![Alt text](Admin_hat.png)
