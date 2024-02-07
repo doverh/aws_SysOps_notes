@@ -1,0 +1,14 @@
+3. Deployment, Provisioning, and Automation
+
+3.1: Provision and maintain cloud resources
+Create and manage AMIs (for example, EC2 Image Builder).
+
+IAM (Identity and Access Management) Role - Helps to secure control access to AWS resources. With IAM you can centrally manage permissions to which AWS resources users can access. (Implement least privilege).  
+Integrate with federated services(Microsoft, Google) that will be assigned roles.
+
+IAM Groups help to manage IAM users --> Create a policy to grant permission - JSON File. By default IAM users can't access anything in your account. 
+
+![Alt text](Json_Policy_Properties.png)
+
+Examples AWS policies - https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
+
