@@ -11,7 +11,7 @@ Integrate with federated services(Microsoft, Google) that will be assigned roles
 
 IAM Groups help to manage IAM users --> Create a policy to grant permission - JSON File. By default IAM users can't access anything in your account. 
 
-![Alt text](Json_Policy_Properties.png)
+![Json Policy Properties](../images/Json_Policy_Properties.png)
 
 Examples AWS policies - https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 
@@ -23,7 +23,7 @@ IAM Group and Users Steps:
 4. Admin assign/revoke policies to users
 5. IAM roles can be used to assign permissions temporarily (users, applications assume roles to access resources)
 See this chart as an example
-    ![Alt text](Admin_hat.png)
+    ![Admin Hat](../images/Admin_hat.png)
 
 To learn more: 
 Manage federated users and their permissions.
