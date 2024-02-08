@@ -1,0 +1,6 @@
+2.3: Implement backup and restore strategies.
+ Automate snapshots and backups based on use cases (for example, RDS snapshots, AWS Backup, RTO and RPO, Amazon Data Lifecycle Manager, retention policy).
+ Restore databases (for example, point-in-time restore, promote read replica).
+ Implement versioning and lifecycle rules.
+ Configure Amazon S3 Cross-Region Replication (CRR).
+ Perform disaster recovery procedures.

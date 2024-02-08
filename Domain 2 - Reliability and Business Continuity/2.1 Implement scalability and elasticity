@@ -1,0 +1,6 @@
+Task Statement 2.1: Implement scalability and elasticity.
+ Create and maintain AWS Auto Scaling plans.
+ Implement caching.
+ Implement Amazon RDS replicas and Amazon Aurora Replicas.
+ Implement loosely coupled architectures.
+ Differentiate between horizontal scaling and vertical scaling.
