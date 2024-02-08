@@ -24,3 +24,6 @@ IAM Group and Users Steps:
 5. IAM roles can be used to assign permissions temporarily (users, applications assume roles to access resources)
 See this chart as an example
     ![Alt text](Admin_hat.png)
+
+To learn more: 
+Manage federated users and their permissions.
