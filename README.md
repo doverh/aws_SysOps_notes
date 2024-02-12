@@ -25,6 +25,9 @@ https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-asso
 3. Review - Implement mvp mentoring app
 4. Exercise mock exams - By section and than twice a week
 
+## PENDING
+-- Explores logs with implemented application
+
 ### Mock Mentoring App Notes
 - Simple form to share 
     - What are we discussin today - share topics for agenda (review goals is always there)
