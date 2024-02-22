@@ -1,0 +1,9 @@
+Task Statement 6.1: Implement cost optimization strategies.
+ Implement cost allocation tags.
+ Identify and remediate underutilized or unused resources by using AWS
+services and tools (for example, Trusted Advisor, AWS Compute Optimizer,
+AWS Cost Explorer).
+ Configure AWS Budgets and billing alarms.
+ Assess resource usage patterns to qualify workloads for EC2 Spot Instances.
+ Identify opportunities to use managed services (for example, Amazon RDS,
+AWS Fargate, Amazon EFS).

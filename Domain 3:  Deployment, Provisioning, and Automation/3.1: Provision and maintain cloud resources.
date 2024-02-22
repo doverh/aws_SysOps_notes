@@ -1,3 +1,14 @@
+Task Statement 3.1: Provision and maintain cloud resources.
+ Create and manage AMIs (for example, EC2 Image Builder).
+ Create, manage, and troubleshoot AWS CloudFormation.
+ Provision resources across multiple AWS Regions and accounts (for example,
+AWS Resource Access Manager [AWS RAM], CloudFormation StackSets, IAM
+cross-account roles).
+ Select deployment scenarios and services (for example, blue/green, rolling,
+canary).
+ Identify and remediate deployment issues (for example, service quotas, subnet
+sizing, CloudFormation errors, permissions).
+
 3. Deployment, Provisioning, and Automation
 
 3.1: Provision and maintain cloud resources

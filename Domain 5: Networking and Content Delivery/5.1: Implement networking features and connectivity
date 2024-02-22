@@ -1,0 +1,4 @@
+Task Statement 5.1: Implement networking features and connectivity.
+ Configure a VPC (for example, subnets, route tables, network ACLs, security groups, NAT gateway, internet gateway).
+ Configure private connectivity (for example, Systems Manager Session Manager, VPC endpoints, VPC peering, VPN).
+ Configure AWS network protection services (for example, AWS WAF, AWS Shield).

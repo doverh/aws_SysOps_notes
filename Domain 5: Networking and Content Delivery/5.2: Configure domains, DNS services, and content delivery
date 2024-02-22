@@ -1,0 +1,6 @@
+Task Statement 5.2: Configure domains, DNS services, and content delivery.
+ Configure Route 53 hosted zones and records.
+ Implement Route 53 routing policies (for example, geolocation, geoproximity).
+ Configure DNS (for example, Route 53 Resolver).
+ Configure Amazon CloudFront and S3 origin access control (OAC).
+ Configure S3 static website hosting.

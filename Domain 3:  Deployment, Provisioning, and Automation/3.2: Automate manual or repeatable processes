@@ -1,0 +1,6 @@
+
+Task Statement 3.2: Automate manual or repeatable processes.
+ Use AWS services (for example, Systems Manager, CloudFormation) to automate deployment processes.
+ Implement automated patch management.
+ Schedule automated tasks by using AWS services (for example, EventBridge,
+AWS Config).

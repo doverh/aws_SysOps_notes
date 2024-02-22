@@ -1,0 +1,10 @@
+Task Statement 6.2: Implement performance optimization strategies.
+ Recommend compute resources based on performance metrics.
+ Monitor Amazon Elastic Block Store (Amazon EBS) metrics and modify
+configuration to increase performance efficiency.
+ Implement S3 performance features (for example, S3 Transfer Acceleration,
+multipart uploads).
+ Monitor RDS metrics and modify the configuration to increase performance
+efficiency (for example, Performance Insights, RDS Proxy).
+ Enable enhanced EC2 capabilities (for example, Elastic Network Adapter,
+instance store, placement groups).

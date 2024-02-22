@@ -1,0 +1,5 @@
+Task Statement 5.3: Troubleshoot network connectivity issues.
+ Interpret VPC configurations (for example, subnets, route tables, network ACLs, security groups).
+ Collect and interpret logs (for example, VPC Flow Logs, ELB access logs, AWS WAF web ACL logs, CloudFront logs).
+ Identify and remediate CloudFront caching issues.
+ Troubleshoot hybrid and private connectivity issues.
