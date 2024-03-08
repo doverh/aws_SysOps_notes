@@ -38,11 +38,12 @@ Destroy - Plan --> Real World - Decomission resources
 ## PLAN 
 
 1. Daily - Create notes for each of the sections
-    - week 02/19 - Section 1 and 2 + Labs (Sat - Mock)
-    - week 02/26 - Section 3 and 4 + Labs (Sat - Mock)
-    - week 03/04 - Section 5 and 6 + Labs (Sat - Mock)
-    - week 03/11 - Labs + Mock Exams
-    - Tentative Test - 20 or 21 march
+    - week 03/09 - Section 1 and 2 + Labs (Sat - Mock)
+    - week 03/16 - Section 3 and 4 + Labs (Sat - Mock)
+    - week 03/23 - Section 5 and 6 + Labs (Sat - Mock)
+    - week 03/30 - Labs + Mock Exams
+    - week 04/05 - Labs + Mock Exams
+    - Tentative Test - April 10th or 11th
 2. Implement labs from Amazon AWS Skill Builder
 3. Review - Implement mvp mentoring app
 4. Exercise mock exams - By section and than twice a week
