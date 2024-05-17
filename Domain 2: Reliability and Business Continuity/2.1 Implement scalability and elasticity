@@ -1,5 +1,11 @@
 Task Statement 2.1: Implement scalability and elasticity.
- Create and maintain AWS Auto Scaling plans.
+Create and maintain AWS Auto Scaling plans.
+
+Elastic Load Balancing works with Amazon EC2 Auto Scaling to:
+ distribute incoming traffic across your healthy Amazon EC2 instances. 
+ This increases the scalability and availability of your application. 
+ You can enable Elastic Load Balancing within multiple Availability Zones to increase the fault tolerance of your applications.
+
  Implement caching.
  Implement Amazon RDS replicas and Amazon Aurora Replicas.
  Implement loosely coupled architectures.

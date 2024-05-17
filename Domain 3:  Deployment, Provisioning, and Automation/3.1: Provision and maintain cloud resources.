@@ -1,5 +1,13 @@
 Task Statement 3.1: Provision and maintain cloud resources.
- Create and manage AMIs (for example, EC2 Image Builder).
+
+## Create and manage AMIs (for example, EC2 Image Builder).
+
+Use yaml or json file to configure.
+Auto scaling groups.
+Registering your Auto Scaling group with an Elastic Load Balancing load balancer helps you to: 
+set up a load-balanced application. 
+
+
  Create, manage, and troubleshoot AWS CloudFormation.
  Provision resources across multiple AWS Regions and accounts (for example,
 AWS Resource Access Manager [AWS RAM], CloudFormation StackSets, IAM
