@@ -6,6 +6,8 @@ Chef Automate - Chef Automate is an enterprise server software package that prov
 
 ## E
 
+EC2 - Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 reduces hardware costs so you can develop and deploy applications faster.
+
 EFS - Elastic File System - When a SysOps administrator launches new EC2 instances in the new subnets, the EC2 instances are unable to mount the file system.
 
 ## F
