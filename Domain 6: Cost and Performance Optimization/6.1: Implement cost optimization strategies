@@ -3,7 +3,14 @@ Task Statement 6.1: Implement cost optimization strategies.
  Identify and remediate underutilized or unused resources by using AWS
 services and tools (for example, Trusted Advisor, AWS Compute Optimizer,
 AWS Cost Explorer).
- Configure AWS Budgets and billing alarms.
+## Configure AWS Budgets and billing alarms.
+
+Billing Dashboard > Billing Preferences
+
+Activate PDF invoices received by mail, as well alert preferences. Free Tier and Cloud Watch.
+
  Assess resource usage patterns to qualify workloads for EC2 Spot Instances.
- Identify opportunities to use managed services (for example, Amazon RDS,
-AWS Fargate, Amazon EFS).
+## Identify opportunities to use managed services (for example, Amazon RDS, AWS Fargate, Amazon EFS).
+
+Security groups ports to access services.
+

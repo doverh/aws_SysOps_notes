@@ -6,7 +6,7 @@ Chef Automate - Chef Automate is an enterprise server software package that prov
 
 ## E
 
-EC2 - Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 reduces hardware costs so you can develop and deploy applications faster.
+EC2 - Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 reduces hardware costs so you can develop and deploy applications faster. 
 
 EFS - Elastic File System - When a SysOps administrator launches new EC2 instances in the new subnets, the EC2 instances are unable to mount the file system.
 
@@ -34,13 +34,30 @@ Determine whether you have given your consumer sufficient time to process messag
 
 Move messages out of the dead-letter queue using dead-letter queue redrive.
 
-
-
 ## R
 
-- Route 53 - is a scalable and highly available Domain Name System (DNS) service. Released on 5 December 2010 (13 years ago),[1] it is part of Amazon.com's cloud computing platform, Amazon Web Services (AWS). The name is a possible reference to U.S. Routes, and "53" is a reference to the TCP/UDP port 53, where DNS server requests are addressed. Also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints. Route 53's servers are distributed throughout the world. Amazon Route 53 supports full, end-to-end DNS resolution over IPv6. Recursive DNS resolvers on IPv6 networks can use either IPv4 or IPv6 transport to send DNS queries to Amazon Route 53.
+- **Resilient - provide built-in replication, automatic failover, and backup capabilities. By using these solutions, organizations can achieve high availability, data durability, and rapid recovery, minimizing downtime and data loss risks while maximizing operational efficiency.  
+- Route 53
+--Register Domains
+--Host Zones and manage nameservers
+--It`s a global service. Unique server is replicated in all zones as single database.
+is a scalable and highly available Domain Name System (DNS) service. The name is a possible reference to U.S. Routes, and "53" is a reference to the TCP/UDP port 53, where DNS server requests are addressed. Also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints. Route 53's servers are distributed throughout the world. Amazon Route 53 supports full, end-to-end DNS resolution over IPv6. Recursive DNS resolvers on IPv6 networks can use either IPv4 or IPv6 transport to send DNS queries to Amazon Route 53.
 
 ## S
+
+S3 - simple storage service. It's regional based / resilient** Stores objects(key, value) from 0 to 5TB.
+Objects
+-Version ID
+-Metadata
+-Access Control
+-Subresources
+
+Characteristics
+-Private by default - always need to grant access.
+-Names have to be unique - Globally
+-Flat Structure(no folders). Folders are objects that emulate folder. prefix of object names /old/panda1.jpg
+-Limits 100 Buckets(Soft)1000 Buckets(Hard) per account.
+-Name starts with lower case
 
 SSM - AWS Systems Manager Agent is a software that runs on Amazon Elastic Compute Cloud (Amazon EC2) instances, edge devices, on-premises servers, and virtual machines (VMs). SSM Agent makes it possible for Systems Manager to update, manage, and configure these resources. The agent processes requests from the Systems Manager service in the AWS Cloud, and then runs them as specified in the request. SSM Agent then sends status and execution information back to the Systems Manager service by using the Amazon Message Gateway Service (ssmmessages). (In AWS Regions launched before 2024, status and execution information might also be sent back by the Amazon Message Delivery Service (service prefix: ec2messages).  
 

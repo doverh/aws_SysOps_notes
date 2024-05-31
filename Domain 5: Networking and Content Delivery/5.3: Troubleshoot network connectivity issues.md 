@@ -1,0 +1,11 @@
+# 5.3: Troubleshoot network connectivity issues
+
+## Interpret VPC configurations (for example, subnets, route tables, network ACLs, security groups).
+
+VPC is placed on AWS Private Zone. Are isolated unless configured otherwise. You can access resources only via AWS public zone.
+
+## Collect and interpret logs (for example, VPC Flow Logs, ELB access logs, AWS WAF web ACL logs, CloudFront logs).
+
+## Identify and remediate CloudFront caching issues.
+
+## Troubleshoot hybrid and private connectivity issues.
