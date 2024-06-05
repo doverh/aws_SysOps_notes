@@ -1,5 +1,9 @@
 # Acronyms
 
+## A
+
+ARN - Amazon Resource Name 
+
 ## C
 
 Chef Automate - Chef Automate is an enterprise server software package that provides automated workflow for continuous deployment, and insights about managed nodes in a web-based management console. Chef Automate delivers infrastructure automation by including Chef Infra, security and compliance information and enforcement by including Chef InSpec, and automated deployment by including Chef Habitat.
@@ -53,7 +57,7 @@ Objects
 -Subresources
 
 Characteristics
--Private by default - always need to grant access.
+-Private by default - always need to grant access. Use resources policies.
 -Names have to be unique - Globally
 -Flat Structure(no folders). Folders are objects that emulate folder. prefix of object names /old/panda1.jpg
 -Limits 100 Buckets(Soft)1000 Buckets(Hard) per account.

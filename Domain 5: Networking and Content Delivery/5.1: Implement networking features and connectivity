@@ -2,7 +2,8 @@ Task Statement 5.1: Implement networking features and connectivity.
  Configure a VPC (for example, subnets, route tables, network ACLs, security groups, NAT gateway, internet gateway).
 
 - VPC - 1 account & 1 region
-- 1 default VPC per region but multiple Custom 
+- 1 default VPC per region but multiple Custom
+- Number of default VPCs subnets determined by the of availability zones(AZs)   
 - VPC can not communicate unless specific allowed
 - Regional Resiliant - Communication done through VPC CIDR (define IP range)
 - Imagine a Cake is a VPC, and Subnets are pieces of the cake. VPC is in a region(us-east-1) and subnets 
